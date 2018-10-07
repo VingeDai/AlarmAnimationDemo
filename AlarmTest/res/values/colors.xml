@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="gridview_item_bg">#E4E7E7</color>
+    <!-- 状态表格item的背景 -->
+    <color name="gridview_item_text_color">#5F8FA3</color>
+    <!-- 状态表格item的文字颜色 -->
+    <color name="white">#FFFFFFFF</color>
+    <color name="red_state">#F23829</color>
+    <!-- 红色状态 -->
+    <color name="yellow_state">#F2D883</color>
+ 	<!-- 黄色状态 -->
+    <color name="blue_state">#5D9A25</color>
+ 	<!-- 绿色状态 -->
+    <color name="monitor_bg">#D6DEE1</color>
+    <!-- 设备监测页背景 -->
+
+</resources>
